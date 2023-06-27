@@ -1,6 +1,9 @@
-# Nuxt 3 Minimal Starter
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f428dfaa-3f9f-4064-84c4-d86f3eb336d5/deploy-status)](https://app.netlify.com/sites/dynamic-snickerdoodle-3ae91d/deploys)
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Nuxt 3 Hybrid PoC
+
+Om goed het verschil te weten tussen de verschillende build modes van Nuxt is dit PoC gemaakt. Bij een push naar `main` wordt de Netlify site direct bijgewerkt.
+URL van de site: [dynamic-snickerdoodle-3ae91d.netlify.app](https://dynamic-snickerdoodle-3ae91d.netlify.app/)
 
 ## Setup
 
